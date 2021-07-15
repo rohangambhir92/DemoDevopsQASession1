@@ -24,7 +24,7 @@ class TicTacToe
 	public static void game()
 	   {
 	   System.out.println("\n************************************************************************************************************************");
-       System.out.println("\t\t\t\t\t\t   TicTacToe Game Updated By Stuti - DevFeature4 \n ");
+       System.out.println("\t\t\t\t\t\t   TicTacToe Game Updated by ROhan and STuti - DevFeature3 and DevFeature4 \n ");
 	   int Player1score = 0;
 	   int Player2score = 0;
 	   System.out.println("\t Player 1 = X \t\t\t\t\t\t\t\t\t\t Player 1 Score = "+Player1score);
